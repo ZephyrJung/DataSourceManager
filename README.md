@@ -1,2 +1,5 @@
 # DataSourceManager
-multi datasource manager,
+multi datasource manager
+
+support springboot
+support druid
